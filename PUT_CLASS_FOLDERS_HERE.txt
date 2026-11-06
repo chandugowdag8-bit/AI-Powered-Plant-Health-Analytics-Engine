@@ -1,0 +1,1 @@
+Extract PlantVillage class folders into this directory. Remove this note after extraction.

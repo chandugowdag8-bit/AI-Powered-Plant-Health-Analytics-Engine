@@ -1,0 +1,5 @@
+backend/.venv/
+backend/__pycache__/
+backend/dataset/
+backend/*.keras
+backend/class_names.json
