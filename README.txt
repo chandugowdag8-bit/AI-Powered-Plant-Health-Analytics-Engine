@@ -111,3 +111,4 @@ NEXT IMPROVEMENTS
 2. Out-of-distribution checks and validation with real local farm photographs.
 3. Expert-reviewed crop/disease treatment database.
 4. Secure authentication, consent, model versioning and production hosting.
+Latest website deployment update
