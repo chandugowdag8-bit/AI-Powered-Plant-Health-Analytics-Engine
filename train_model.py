@@ -7,7 +7,7 @@ from pathlib import Path
 import tensorflow as tf
 
 # Project paths
-ROOT = Path(__file__).resolve().parent
+ROOT = Path(__file__).resolve().parent 
 
 # Actual extracted dataset location
 DATA_DIR = Path(
